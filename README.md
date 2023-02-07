@@ -1,4 +1,7 @@
 # Airbnb Mini Web App
+- React.js
+- Tablet and mobile design
+## Deploy: https://rleydev.gitlab.io/airbnb-mini-webapp/
 
 
 # Getting Started with Create React App

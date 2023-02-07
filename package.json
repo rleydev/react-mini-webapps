@@ -1,5 +1,6 @@
 {
   "name": "airbnb-min-app",
+  "homepage":"https://rleydev.gitlab.io/airbnb-mini-webapp/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

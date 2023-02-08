@@ -3,6 +3,8 @@
 - Tablet and Mobile <640px width
 - useState, useEffect
 
+- Deploy: https://rleydev.gitlab.io/meme-generator-mini-webapp/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

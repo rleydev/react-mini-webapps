@@ -1,3 +1,6 @@
+# Tenzies Game Mini Web App
+- React.js
+- Responsive from 380px
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

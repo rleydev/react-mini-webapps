@@ -1,5 +1,8 @@
 # Portfolio of mini-web-apps developed using React.js
 
+## Run instructions:
+- npm run start: dev view
+
 1) Airbnb mini web app **airbnb-mini-app** branch
 -React.js
 - Tablet and mobile design

@@ -3,6 +3,7 @@
 ## Run instructions:
 - npm run start: dev view
 
+## About
 1) Airbnb mini web app **airbnb-mini-app** branch
 -React.js
 - Tablet and mobile design
